@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header__mars {
+    background-color: rgb(247, 153, 58);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.header__mars__text {
+    font-size: 2rem;
+}
+
+.header__menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.header__menu-item {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+
+
+
+/* -------------------------- */
+/* -------------------------- */
+/* -------------------------- */
+/* -------------------------- */
+/* -------------------------- */
+/* -------------------------- */
+
+
+
+
+.section__content {
+    
+}
